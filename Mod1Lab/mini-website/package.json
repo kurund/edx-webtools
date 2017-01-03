@@ -1,0 +1,14 @@
+{
+  "name": "mini-website",
+  "version": "1.0.0",
+  "description": "Create a mini-website using Express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kurund Jalmi",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
